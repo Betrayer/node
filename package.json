@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betrayer/node.git"
+  },
+  "keywords": [],
+  "author": "Betrayer <StarDestroyer@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betrayer/node/issues"
+  },
+  "homepage": "https://github.com/Betrayer/node#readme",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
