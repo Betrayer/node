@@ -25,9 +25,9 @@
   },
   {
     "id": 5,
-    "name": "Cyrus Jackson",
-    "email": "nibh@semsempererat.com",
-    "phone": "(501) 472-5218"
+    "name": "Buba",
+    "email": "biba@boba.com",
+    "phone": "88005553535"
   },
   {
     "id": 6,
@@ -64,5 +64,9 @@
     "email": "pussySlayer69@chad.com",
     "phone": "88005553535"
   },
-  { "name": "Mango", "email": "mango@gmail.com", "phone": "322-22-22" }
+  {
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  }
 ]
